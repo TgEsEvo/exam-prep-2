@@ -23,7 +23,7 @@ namespace Homies.Data.Data.Models
         public string OrganiserId { get; set; } = null!;
 
         [Required]
-        //[ForeignKey(nameof(OrganiserId))]
+        //[ForeignKey(nameof(OrganiserId))].
         public IdentityUser Organiser { get; set; } = null!;
 
         [Required]
