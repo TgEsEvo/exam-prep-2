@@ -16,7 +16,7 @@ namespace Homies.Models.Event
 
         [Required]
         [StringLength(EventMaxDescription, MinimumLength = EventMinDescription,
-            ErrorMessage = "Description must be between 15 and 150 characters.")]
+            ErrorMessage = "Description must be between 15 and one hundred fifty characters.")]
         public string Description { get; set; } = null!;
 
         [Required]
