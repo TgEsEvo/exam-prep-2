@@ -1,0 +1,14 @@
+D:\github\exam-prep-2\Homies.Data\bin\Debug\net6.0\Homies.Data.deps.json
+D:\github\exam-prep-2\Homies.Data\bin\Debug\net6.0\Homies.Data.runtimeconfig.json
+D:\github\exam-prep-2\Homies.Data\bin\Debug\net6.0\Homies.Data.dll
+D:\github\exam-prep-2\Homies.Data\bin\Debug\net6.0\Homies.Data.pdb
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.AssemblyReference.cache
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfoInputs.cache
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfo.cs
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.CoreCompileInputs.cache
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.dll
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\refint\Homies.Data.dll
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.pdb
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\Homies.Data.genruntimeconfig.cache
+D:\github\exam-prep-2\Homies.Data\obj\Debug\net6.0\ref\Homies.Data.dll
