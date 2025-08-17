@@ -26,9 +26,10 @@ jobs:
         run: dotnet build --no-restore
 
       - name: Run tests
+        shell: bash
         run: |
-          if [ "${{ github.ref }}" == "refs/heads/develop" ]; then
+          if [ "${GITHUB_REF}" == "refs/heads/develop" ]; then
             dotnet test --filter "Category=Unit"
-          elif [ "${{ github.ref }}" == "refs/heads/staging" ]; then
+          elif [ "${GITHUB_REF}" == "refs/heads/staging" ]; then
             dotnet test --filter "Category=Integration"
           fi
